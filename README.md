@@ -11,7 +11,7 @@
 <ul>
   <li>🌱 Currently expanding my skills in <b>Data Science</b> and <b>Web3</b></li>
   <li>💬 Feel free to ask me about <b>Web Development, and Web3</b></li>
-  <li>🔧 Proficient in <b>JavaScript (React, Angular), Java</b></li>
+  <li>🔧 Proficient in <b>JavaScript (React), Java</b></li>
 </ul>
 
 
