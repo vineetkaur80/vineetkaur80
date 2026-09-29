@@ -9,7 +9,7 @@
 <div>
   <h1 align="center">Hi, I'm Vineet Kaur</h1>
   <h3 align="center">
-    AI/ML Engineer | Generative AI | LLMs | RAG Systems | Agentic AI
+    AI/ML Engineer | Generative AI | LLMs | RAG Systems
   </h3>
 </div>
 
